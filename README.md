@@ -5,7 +5,7 @@
 
  
 ##     *__Reach Me 🌐__*
--  [LinkedIN](https://www.linkedin.com/in/p-g-vignesh-b8bb541b3)
+-  [LinkedIN](https://www.linkedin.com/in/puthucode-ganesh-vignesh-b8bb541b3/)
 -  [Gmail](vignesh200399@gmail.com)
 
 ## *__Skill Stack 💻__*
