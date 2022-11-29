@@ -1,10 +1,10 @@
-##   *__Hi <span class="wave">👋</span> I’m Vignesh (@Hitman69420) 🧑‍💻__*
+##   *__Hi 👋 I’m Vignesh (@Hitman69420) 🧑‍💻__*
 - 2nd Year Undergrad Student 🎓  @Amrita 
 -  AI ML Enthusiast 🧠
 - Interested in Android Development 📲 and Full Stack Development 🌍
 
-
-##     *__Reach Me 🌐 __*
+ 
+##     *__Reach Me 🌐__*
 -  [LinkedIN](https://www.linkedin.com/in/p-g-vignesh-b8bb541b3)
 -  [Gmail](vignesh200399@gmail.com)
 
