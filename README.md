@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Hitman69420
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...vignesh200399@gmail.com
+- Hi I’m Vignesh (@Hitman69420)🧑‍💻
+- 🧑‍🎓 2nd Year Undergrad Student @Amrita 
+- 🌱 AI ML Enthusiast 🧠
+- 💞️ Interested in Android Development📲 and Full Stack Development 🌍
+- 📫 LinkedIN : https://www.linkedin.com/in/p-g-vignesh-b8bb541b3/
+  
 
 <!---
 Hitman69420/Hitman69420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
