@@ -1,8 +1,8 @@
-- Hi I’m Vignesh (@Hitman69420)🧑‍💻
-- 🧑‍🎓 2nd Year Undergrad Student @Amrita 
-- 🌱 AI ML Enthusiast 🧠
-- 💞️ Interested in Android Development📲 and Full Stack Development 🌍
-- 📫 LinkedIN : https://www.linkedin.com/in/p-g-vignesh-b8bb541b3/
+- Hi I’m Vignesh (@Hitman69420) 🧑‍💻
+- 2nd Year Undergrad Student 🎓  @Amrita 
+-  AI ML Enthusiast 🧠
+- Interested in Android Development 📲 and Full Stack Development 🌍
+- LinkedIN : https://www.linkedin.com/in/p-g-vignesh-b8bb541b3/ 📫 
   
 
 <!---
