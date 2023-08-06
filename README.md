@@ -13,6 +13,8 @@
 - Java
 - HTML,CSS,JavaScript
 - C,C++
+- React Native
+- Figma
 
 
 <!---
